@@ -9,7 +9,7 @@ await page.goto('https://test.raptortech.com/');
    await expect(page).toHaveTitle('Login')
    await page.locator('#Username').fill('Mobileda00@raptor.com');
    await page.locator('#showPassword > button').click();
-   await page.locator('#Password').fill("Monday12!");
+   await page.locator('#Password').fill("Monday");
    await page.locator('#login-btn').click();
    await page.waitForLoadState('networkidle');
    await page.locator('.product-tile').nth(0).click();
