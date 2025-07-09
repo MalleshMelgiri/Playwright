@@ -1,0 +1,41 @@
+class ApiUtil
+{
+
+    constructor(apiContext,loginPayload)
+    {
+     this.apiContext=apiContext;
+     this.loginPayload=loginPayload;
+    }
+
+   async GetToken()
+   {
+     const api=await this.apiContext.post('https://rahulshettyacademy.com/api/ecom/auth/login',
+     {
+        data:this.loginPayload,
+     });
+     const response=await api.json();
+     return response.token;
+   }
+   
+   async CreateOrder(orderDetails)
+   {
+    let responseData={};
+    responseData.token=await this.GetToken();
+     const api=await this.apiContext.post('https://rahulshettyacademy.com/api/ecom/order/create-order',
+     {
+        data: orderDetails,
+        headers: {
+            'Authorization':responseData.token,
+            'Content-Type': 'application/json',
+        }
+     }
+     );
+
+     const response=await api.json();
+     const orderId=response.orders[0];
+     responseData.orderId=orderId;
+     return responseData;
+   }
+}
+
+module.exports={ApiUtil};

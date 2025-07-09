@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7291","tests-2 with default browser context","chromium","Tue Jul 08 20:12:40 IST 2025","passed","Tue Jul 08 20:12:47 IST 2025","","StorageStatePlaywrite.spec.js","",""
+"","11955","tests with default browser context","chromium","Tue Jul 08 20:11:44 IST 2025","passed","Tue Jul 08 20:11:56 IST 2025","","StorageStatePlaywrite.spec.js","",""
+"","6645","order with api call","chromium","Tue Jul 08 20:09:14 IST 2025","passed","Tue Jul 08 20:09:21 IST 2025","","ApiIntegration.spec.js","",""

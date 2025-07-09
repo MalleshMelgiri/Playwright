@@ -1,0 +1,142 @@
+{
+  "cookies": [
+    {
+      "name": "_csrf",
+      "value": "iYIMcWVE6_3mjffoOzDshNIr",
+      "domain": "testlogin.raptortech.com",
+      "path": "/usernamepassword/login",
+      "expires": 1752938207.922276,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "did",
+      "value": "s%3Av0%3A44ae85aa-3e32-443d-8eef-b74336432650.Hd1zFqR5NxHAdtGl6gxCTz5DUHpnJBWIW%2F6AI6CeOJs",
+      "domain": "testlogin.raptortech.com",
+      "path": "/",
+      "expires": 1783631806.454167,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "did_compat",
+      "value": "s%3Av0%3A44ae85aa-3e32-443d-8eef-b74336432650.Hd1zFqR5NxHAdtGl6gxCTz5DUHpnJBWIW%2F6AI6CeOJs",
+      "domain": "testlogin.raptortech.com",
+      "path": "/",
+      "expires": 1783631806.454298,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth0",
+      "value": "s%3ABmBoZXSXBeatewY6OriruzcxAKdxw0WM.oO%2BPYu6esAYYVVf0o4%2Fxe2VMz4PSMtW%2FwqWOgbieozM",
+      "domain": "testlogin.raptortech.com",
+      "path": "/",
+      "expires": 1754839027.499324,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "auth0_compat",
+      "value": "s%3ABmBoZXSXBeatewY6OriruzcxAKdxw0WM.oO%2BPYu6esAYYVVf0o4%2Fxe2VMz4PSMtW%2FwqWOgbieozM",
+      "domain": "testlogin.raptortech.com",
+      "path": "/",
+      "expires": 1754839027.499459,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_legacy_auth0.Jp0otqqXaegq_AR3I3PVACHfY7hIOo4e.is.authenticated",
+      "value": "true",
+      "domain": "test.raptortech.com",
+      "path": "/",
+      "expires": 1783610229,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth0.Jp0otqqXaegq_AR3I3PVACHfY7hIOo4e.is.authenticated",
+      "value": "true",
+      "domain": "test.raptortech.com",
+      "path": "/",
+      "expires": 1783610229,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "raptor-context",
+      "value": "eyJjbGllbnRVaWQiOiI3Mjc5N2I0ZC1kMDk3LTQ0MDItOWU4Yi1jNTBjYzY5MTA0MDUiLCJjbGllbnROYW1lIjoiUkEgTW9iaWxlIFVJIEF1dG9tYXRpb24gLSAxIiwiYnVpbGRpbmdOYW1lIjoiQnVpbGRpbmcgMSIsImJ1aWxkaW5nVWlkIjoiMTQ4MDg2NjUtYjk2MC00MWI5LWI0ZTAtZTQ1ODA2NmZkNTk4In0=",
+      "domain": "test.raptortech.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "ze3sbih41zadnp2l0wo1tf4h",
+      "domain": "home-c28.incontact.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "zDE4lZ0a7nsctKrnTfSSBADFl4QMhPcQqH7rZmoiixJaEyl3op/lIFYhDInkgG5XS4266FcK+0FHDpjP7hhjnqzdo8VW5lTHBUGK+PPu3VopLZFvZ3Si8ME9DuVn",
+      "domain": "home-c28.incontact.com",
+      "path": "/",
+      "expires": 1752679034.719498,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNet.Cookies",
+      "value": "d9QgUCSwhNRXw367MxocH71i1slpxkIp-TKIortfRZ5Ao_q1BfnVZSYVOy8EjkJ-l8GEKu8mVI9Tdlh-oBjaLhAVHXP7fYCXZxSY9so7yqGxktKTEfAxFtzNefR0uKOQ5CmptIiv89z-ZUGXNXf40oLZKtcIOGgl-Hmfg5uNyhGqG1E1LYYJR796b78iokZk3l_tFuFalTQWWNewCLRuv1Z5JAFsuEaaY-x8Ki8hoof6ST2kyidIg-SOqj8HkFIi6CoPlI-ewnXeUEbvEyo_JkMKqd-8v7UHhLA6pzbd5R9GRGxdMWfWqEpkk_ctjP-ToQO5JOqe-ueb6PZfLFdE5-NptRAwwi7PxjNNzCjYNeb8-V3FRal_n8YupE2V2b9DuG0RHHigAjDDA7H874xrDkNprSAKP6brUGdasybx1ANHFme2BX19RSBjsIXPziza51ZktsQkUY7orMctnGzB5si86VkQJnLWyZ7VEIWrKtSNOWELXpqurhVhG4t-dxUgweGIYY7wUt-1XzcHLlLM9IQsPh_2rwZsANZUSaIiXmkZA8nlEdPKC_nEp4XCVDNCJFcXDWRKfIXj-Q-YqMGyKxK9EdAzm9uNlZA3jR7ElDW5KaEkJ3fF8TdLo3e86qWYG-Hc9T0NHiV5-onBulosiDB-zUSjz-u5hOXq9GVVv9CHaAFVTQ_NBYLdNkJqZJalM-Bn_2kj8pxREyXNFOWtajxpzqFzmZuSg2l-oadg18vQbf4F3UqZ2owuXCikRRQuQI5wMX1mghZLacio0rynTaPJIayV4wwCO4paAi2BkCsDOfHyc76HZpOLrgb7v7GnPT1dA5Sge-0oa7_aAPtIJN8qZMP1hl8Q60h5HjeTgU5VzagI8pjMpgnheeajs3enSDXvJB701aCJVwRfFn7jgOkY0CZztDvTIZAsaaIPf732ibMxy99Z7I3DLr_lr-XOQFd6Sqf92pc7lskY6pkPFtHulKScRU4_T7jqmtoSc6rO4CU8srqQEVaQ7VVY1sGh84mETIrOKBtVK08BGZpDcBBpRf1c1tbmPlfEB-MwC5mZlcJYIDa0agzNjqX4bvQwI--h9Hf9u6VUMuF9IsxyQJbqdBGPuNkA669c2M3fPE-CWJVHtUOShjzv5vgtUJdENTIRMcXcbWcrkwmsFtmt2yG-X3Q9OX1WFHI1ZG7GAKpBvLnxdOYtoqAlSe811v_6qcBHVI-yx0EoVd8YNXpIA0uuy-sOZ93x1_3fhDdhz0abjMK3IMftRR5_-xuN4uNL0Q4MZg6uvLncJhG_kBG7A9SFOSiAP_P-uAkbNmL0hM3WgG9_Ht0HtB90iqufveZ-cNuEJ9LL0UcG3WMAriPuPI0m62P-gT5m0VojE5AK9UKS5d5ulUd6b0W3cyU_7DseJcmfyKNf38l-_O6mgANQomgzVarQ6DzOFBzJuU23QyzkPwPXXDEF6RQSX3URK6D7UUcKAFHZqS6teVvqeao6T_1nsp1zQ4_1eoLb46Oo3gjDhXYSs8gDFD3mvtl6ZS9OX72t2elNy-S-rG79TqOJHq_1KzGdZxyqeAB_2X-jCh3NGriNtySd9z0VGJouePuTEDSp7eWY-37KwReSQgg7U6_1p5XRBAUIcavtdlTi_JFAhsuMVK5M5WKECBQSaT6yiJ55wqcbAj3LKml3Ecr9nAAgnAPrnBGk64C_FXrnfmlPhDACyLqYNfmmC8PEhwpKgtRiKQSkpWu_ba2Y0ssH547kStKjzpUm28YT_nEtZDG-a-eOajaoNZUL1AoIzZfL6ubcx1uj3zWduoLlL664N9NrAvzRE4O-WRh9tyoAyCZtz2G2sJ_BxVYYidYdLGLGysiFx0GngfWToDEH5UN6zoExOTMqnUO9sKbfzbggrIynDDvgbUfjQwsrkKHtBCbI3ocTm2a1ksygEFRslAUFXnLsPS-x3gBbMyW4leWDsTTuyf60HdmqtnspofuoRd_24aV1j0xupk4912nd4wbet75rRpaV_CqRYVgAgPiUjh5bYgkGcRVhV79WhC27athdjDOVnEDm8IjXu15_DBCI5zgkq3BGB-lhsU4WC8PTRf6HUP_TT9iCElVIzhnfZIYq2bClUvNmXQK-_xqJoXMM92jwt0HZbtXVN5RsCTy-dmYCCCA7ckEZjWXYvRKuv7XlSmSU8ud9n_rqGCC0_Y-9io0xHqrpeeKKpWA6WxCdy0s7uq-z8gI2N3R6yo7JUYzYoLCV1OZsF9uH7dpR7V-I_lowQRWMvhnqD10A-v3mX62L9dqH0oEJXizCeu7ZwowHxPloMWGwDzC5soGdiWQpMM-akwAN_-LocTd6j-Yn6l5Ko1_UxLNEmwhdpuK4_j3tujaU0C9pSfPDaHCxxnJeGos-MMEwFMSi1oKwIhpgfVtj__zAB98sjNba9pRG2wfQ5oMX1BHHohKRi42i3xCo2Lde7HAyYjVS1IUiZ-COexm6asL_sjl7qW5MaEbW4UZsUBoTmeuwNf1Px7L_joQycNrueIfO2hvtf00xZ_iuCkqh6viMBeRZuQJhgtZx0_dyRfiUKPltUbB7lZKsCAqe9A-Xz4WYEMiXY817HeP25XnCUIq4tJKvhn8ru2nmgGPGhOw2UaAyrWlOmV-PdroJDTaG0XAzu-oS0_HcQk-qv8wrESBrax74szxVM9Twloa_n46bABvLIljx0WR09mcGy5LHro1XTceKrZuMEI6872u18dN7Qn9eo4y25vkwY3l9NOYPxwyybtYT8Q9Mwtn4v4bTBod9L7u_MuuL3_AJ6tScIB6my0HgawrNeJ4zPXjELq-qwkMIaibsEbpRTJlpTwpOAy0g-gskKLmtp442fNFSDHoD1SH9AbKpE6-QjcM1lnKKgvlBDqDTmK7BuzR3ZoR93y_Fa-cDOOG0p_lhTzKkPq6TProqhfx3d4kZPfP2T8IVb3o8fVnAkDi5lBSPfF_dQm5qCcMtQFZnV14FSMeoz0uVoAKw8WiMDCcwr5vb44f3hc6i0XnUw1dXpWn4mv4fsfvp-mjpxJdAQu854uQRe3JA56LbqSATUE8aOxTumbMELoHxHxnNhK9OMGmdl603_34RtkKWdBsn4CXPquvFKCax",
+      "domain": "test.raptortech.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://test.raptortech.com",
+      "localStorage": [
+        {
+          "name": "NRBA_SESSION",
+          "value": "{\"value\":\"32c58bc07bb4d6b9\",\"inactiveAt\":1752076033533,\"expiresAt\":1752088625308,\"updatedAt\":1752074234807,\"sessionReplay\":0,\"sessionTraceMode\":0,\"custom\":{}}"
+        },
+        {
+          "name": "ld:660d68a843d6f10f9bffcb7c:$diagnostics",
+          "value": "{\"dataSinceDate\":1752074226037,\"droppedEvents\":0,\"eventsInLastBatch\":0,\"streamInits\":[]}"
+        },
+        {
+          "name": "activePage",
+          "value": "https://test.raptortech.com/User/Login/Callback"
+        }
+      ]
+    },
+    {
+      "origin": "https://testlogin.raptortech.com",
+      "localStorage": [
+        {
+          "name": "activePage",
+          "value": "https://testlogin.raptortech.com/login?state=hKFo2SBaYnpUaU5wUGNfX3Jwdi1jRElTT1licDl2STA4TG4zZqFupWxvZ2luo3RpZNkgYzg0YUJtWUF6Um9FRUdDMkpDYzVaTUhnYVFlZ2hmc0ijY2lk2SBKcDBvdHFxWGFlZ3FfQVIzSTNQVkFDSGZZN2hJT280ZQ&client=Jp0otqqXaegq_AR3I3PVACHfY7hIOo4e&protocol=oauth2&redirect_uri=https%3A%2F%2Ftest.raptortech.com%2Fcallback&response_mode=form_post&response_type=code%20id_token&scope=openid%20profile%20email&nonce=638876710444819110.MzhkODg2YWUtODkzNS00YzE5LWFmMjgtNDFhZmJmODdjNTA1MjI5NWM3YmEtNThjNi00ZDE1LWFmZTQtMjA4NmQxYjQyN2I5&x-client-SKU=ID_NET461&x-client-ver=6.8.0.0"
+        }
+      ]
+    }
+  ]
+}
